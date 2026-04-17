@@ -1,3 +1,5 @@
+Note :- All three files are same and uploaded in three different formats.
+
 🍕 Pizza Sales SQL Project
 🔎 Overview
 This repository contains a SQL‑based analytics project built on the Pizza Day dataset, designed to answer key business questions about sales, revenue, and customer behavior. By leveraging SQL queries, the project demonstrates how raw transactional data can be transformed into actionable insights for decision‑making.
